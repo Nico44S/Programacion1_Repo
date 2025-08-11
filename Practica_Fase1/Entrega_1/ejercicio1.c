@@ -9,8 +9,10 @@ Usuario Github: Nico44S
 
 #include <stdio.h>
 
+// Para compilar este programa usar: gcc ejercicio1.c -o ejercicio1.c
+
 int main ()
 {
-    printf ("Hola Mundo.");
+    printf ("Hola Mundo C!\n");
     return 0;
 }
